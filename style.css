@@ -1,0 +1,61 @@
+body{
+  text-align:center;
+  font-family:sans serif;
+  background-image:linear-gradient(to bottom right, #97DCF0, #E789DF);
+  color:white;
+}
+
+#title{
+  font-size:40px;
+}
+#description{
+  font-size:20px;
+}
+
+#body{
+  width:550px;
+  padding:40px;
+  margin:auto;
+  border-radius:10px;
+  text-align:left;
+  background:rgba(0, 0, 0, 0.6);
+  font-size:20px;
+  color:white;
+}
+
+#name{
+  width:500px;
+  padding:10px;
+  border-radius:10px;
+}
+#email{
+  width:500px;
+  padding:10px;
+  border-radius:10px;
+}
+#number{
+  width:500px;
+  padding:10px;
+  border-radius:10px;
+}
+#dropdown{
+  width:500px;
+  padding:10px;
+  border-radius:10px;
+}
+#comment{
+  width:500px;
+  padding:15px;
+  border-radius:10px;
+  border:none;
+}
+#submit{
+  width:530px;
+  padding:10px;
+  font-size:15px;
+  border-radius:10px;
+  border:none;
+  margin-top:2%;
+  color:white;
+  background:green;
+}
